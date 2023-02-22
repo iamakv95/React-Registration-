@@ -106,6 +106,11 @@ button {
   border-radius: 5px;
   border: 1px solid rgb(116, 116, 116);
   cursor: pointer;
+  margin: 20px 10px;
+}
+
+button:hover {
+  background-color: rgb(154, 255, 154);
 }
 
 .register {
